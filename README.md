@@ -1,1 +1,1 @@
-# golang-workshop01
+Golang - Workshop01
